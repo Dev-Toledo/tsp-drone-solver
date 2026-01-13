@@ -46,3 +46,21 @@ We tested the model on random instances (15 to 35 nodes). The hybrid approach de
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/SeuUsuario/hybrid-delivery-optimization.git](https://github.com/SeuUsuario/hybrid-delivery-optimization.git)
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the solver:** (Note: A valid Gurobi License is required. Academic licenses are free.)
+   ```bash
+   python src/solver.py
+
+## 👨‍💻 Tech Stack
+Language: Python
+
+Solver: Gurobi Optimizer (gurobipy)
+
+Visualization: Matplotlib & Folium
+
+## 📄 License
+This project is licensed under the MIT License.
