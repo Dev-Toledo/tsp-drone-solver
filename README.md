@@ -38,14 +38,13 @@ We tested the model on random instances (15 to 35 nodes). The hybrid approach de
 ### Optimized Route Visualization
 *Blue lines: Truck Path | Red dashed lines: Drone Flight*
 
-![Route Visualization](images/inst_35_0.png)
-*(Replace this link with the actual path to your image from the PDF Page 25/28)*
+![Route Visualization](images/Figura1_inst_35_0.png)
 
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SeuUsuario/hybrid-delivery-optimization.git](https://github.com/SeuUsuario/hybrid-delivery-optimization.git)
+   git clone [https://github.com/Dev-Toledo/tsp-drone-solver.git](https://github.com/Dev-Toledo/tsp-drone-solver.git)
 
 2. **Install dependencies**
    ```bash
