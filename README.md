@@ -64,7 +64,5 @@ Visualization: Matplotlib & Folium
 ## 📄 License
 This project is licensed under the MIT License.
 
-## 👨‍💻 Authors
-Caio Toledo
-
-[LinkedIn](www.linkedin.com/in/caio-toledo-sousa)
+## 👤 Authors
+Caio Toledo - [LinkedIn](https://www.linkedin.com/in/caio-toledo-sousa)
