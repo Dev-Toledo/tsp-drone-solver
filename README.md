@@ -45,14 +45,17 @@ We tested the model on random instances (15 to 35 nodes). The hybrid approach de
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Dev-Toledo/tsp-drone-solver.git](https://github.com/Dev-Toledo/tsp-drone-solver.git)
+   ```
 
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   ```
 
 3. **Run the solver:** (Note: A valid Gurobi License is required. Academic licenses are free.)
    ```bash
    python src/solver.py
+   ```
 
 ## 👨‍💻 Tech Stack
 Language: Python
